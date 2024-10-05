@@ -1,0 +1,15 @@
+instructions:
+    use main file and search for values:
+        imageScale
+        scaleImagesTo
+        radius
+        displayRadius
+    check the files with:
+        -- d
+        -- dddd
+        -- ddA
+        -- d2
+    change value to original ones
+
+        Temp data:
+
